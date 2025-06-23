@@ -1,0 +1,1 @@
+at runtime, typing.cast does absoltely nothing .This is its implementation, the type stated in the cast.The Cats section of PEP484 gives an example where the type checker needs at the quidance of cast.
